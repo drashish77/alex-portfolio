@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a my portfolio project.
+It is built using node version 18, Tailwind CSS and TypeScript.
+
+Also it is using stable app version.
+For CMS it is using sanity js.
 
 ## Getting Started
 
